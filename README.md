@@ -18,3 +18,5 @@ Strategic Portfolio Shift: The decline in core legacy products like Nestle Rownt
 The "Target Gap": To bridge the 18.7% revenue deficit, the strategy must pivot from purely volume-based sales to a Value-Up approach. This involves upselling premium SKUs (like Nestle Fab and Smarties) and optimizing regional logistics to reduce the cost of sale in lower-performing zones.
 # Final Outlook
 The business possesses a robust operational foundation and a highly capable salesforce. By diversifying regional focus and aggressively backing the high-growth product categories identified in 2014, the organization is well-positioned to achieve its future targets and improve overall profitability.
+<img width="1567" height="587" alt="Amazon Sales Dashboard " src="https://github.com/user-attachments/assets/112aabac-120b-4f0a-bd3d-5373ea91b705" />
+
